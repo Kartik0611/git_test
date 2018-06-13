@@ -1,0 +1,3 @@
+this is the first dummy file
+
+git add filename makes the git to follow the changes made to a file.
